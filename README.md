@@ -45,6 +45,8 @@ Some other teams that may be worth watching
 ***
 
 >RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+>
+>
 >RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
 
 [Link to StackOverflow where I got the code](https://stackoverflow.com/questions/234723/generic-htaccess-redirect-www-to-non-www)
