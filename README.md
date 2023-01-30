@@ -12,3 +12,8 @@ Lakers Players
 1. Lebron James
 2. Anthony Davis
 3. Kyle Kuzma
+
+Some other teams that may be worth watching
+- Oklahoma City Thunder
+- Washington Wizards
+- Philadelphia 76ers
