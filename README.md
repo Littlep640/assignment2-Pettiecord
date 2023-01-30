@@ -39,3 +39,19 @@ Some other teams that may be worth watching
 >
 >
 >"I have been hit in the head so many times that I am surprised that I am not weird." - *Zach Hougland*
+
+
+# Code Fencing
+***
+
+>
+RewriteCond %{HTTP_HOST} ^www\.example\.com [NC]
+RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+>
+[Link to StackOverflow where I got the code](https://stackoverflow.com/questions/234723/generic-htaccess-redirect-www-to-non-www)
+
+~~~ 
+Redirect 301 /oldpage.html http://www.yoursite.com/newpage.html
+Redirect 301 /oldpage2.html http://www.yoursite.com/folder/
+~~~
+[Link to css tricks Redirecting](https://css-tricks.com/snippets/htaccess/301-redirects/)
