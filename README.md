@@ -30,3 +30,12 @@ Some other teams that may be worth watching
 | Romania | General cool country in Europe. | 3 |
 | Japan | A lot of places to visit. | 14 |
 | Spain | See what life is like. | 2 |
+
+
+# Quotes I Like/Are Funny
+***
+
+>"Jack frost was blowing sweet tunes in places I best not talk about." - *Peyton Petiecord*
+>
+>
+>"I have been hit in the head so many times that I am surprised that I am not weird." - *Zach Hougland*
