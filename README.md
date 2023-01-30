@@ -20,3 +20,13 @@ Some other teams that may be worth watching
 
 
 [AboutMe](AboutMe.md)
+
+# Countries to Visit
+***
+
+| Name | Why I Recommend | Days I Would Spend Here |
+| --- | --- | --- |
+| Brazil | A lot of diversity everywhere. | 5 |
+| Romania | General cool country in Europe. | 3 |
+| Japan | A lot of places to visit. | 14 |
+| Spain | See what life is like. | 2 |
